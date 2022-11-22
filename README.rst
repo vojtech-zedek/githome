@@ -14,6 +14,7 @@ Base Skeleton to start your application using Flask-AppBuilder
     # Run dev server
     $ flask run
 
+## Zdravim odhlasuj se z githubu nebo to dopadne spatne :---)
 
 That's it!!
 haha no
